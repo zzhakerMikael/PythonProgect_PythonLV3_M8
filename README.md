@@ -5,9 +5,9 @@
 > ...
 
 ## Проект состоит из:
-> config.py
-> bot.py
-> reg.db
+> config.py,
+> bot.py,
+> reg.db,
 > ...
 
 
